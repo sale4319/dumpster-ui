@@ -1,7 +1,7 @@
 import React from "react";
 
-import { Button } from "./Button";
-import "./header.css";
+import { Button } from "../buttons";
+import "./Header.css";
 
 type User = {
   name: string;
@@ -56,7 +56,7 @@ export const Header = ({
           </>
         ) : (
           <>
-            <Button size="small" onClick={onLogin} label="Is this live" />
+            <Button size="small" onClick={onLogin} label="Log in" />
             <Button
               primary
               size="small"
