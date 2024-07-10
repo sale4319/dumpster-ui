@@ -2,7 +2,6 @@
 
 # dependencies
 /node_modules
-/storybook-static
 .yarn/install-state.gz
 /.pnp
 .pnp.js
