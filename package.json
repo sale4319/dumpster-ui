@@ -1,7 +1,7 @@
 {
-  "name": "dumpster-ui",
+  "name": "dmp-ui",
   "homepage": "https://sale4319.github.io/dumpster-ui",
-  "version": "0.1.4",
+  "version": "0.0.1",
   "dependencies": {
     "classnames": "^2.5.1",
     "react": "^18.3.1",

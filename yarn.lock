@@ -6453,6 +6453,35 @@ __metadata:
   languageName: node
   linkType: hard
 
+"dmp-ui@workspace:.":
+  version: 0.0.0-use.local
+  resolution: "dmp-ui@workspace:."
+  dependencies:
+    "@chromatic-com/storybook": "npm:^1.6.1"
+    "@storybook/addon-essentials": "npm:^8.2.1"
+    "@storybook/addon-interactions": "npm:^8.2.1"
+    "@storybook/addon-links": "npm:^8.2.1"
+    "@storybook/addon-onboarding": "npm:^8.2.1"
+    "@storybook/blocks": "npm:^8.2.1"
+    "@storybook/preset-create-react-app": "npm:^8.2.1"
+    "@storybook/react": "npm:^8.2.1"
+    "@storybook/react-webpack5": "npm:^8.2.1"
+    "@storybook/test": "npm:^8.2.1"
+    "@types/gh-pages": "npm:^6"
+    "@types/prop-types": "npm:^15"
+    classnames: "npm:^2.5.1"
+    eslint-plugin-storybook: "npm:^0.8.0"
+    gh-pages: "npm:^6.1.1"
+    prop-types: "npm:^15.8.1"
+    react: "npm:^18.3.1"
+    react-dom: "npm:^18.3.1"
+    react-scripts: "npm:5.0.1"
+    storybook: "npm:^8.2.1"
+    typescript: "npm:^4.9.5"
+    webpack: "npm:^5.92.1"
+  languageName: unknown
+  linkType: soft
+
 "dns-packet@npm:^5.2.2":
   version: 5.6.1
   resolution: "dns-packet@npm:5.6.1"
@@ -6600,35 +6629,6 @@ __metadata:
   checksum: 10c0/2d8d4ba64bfaff7931402aa5e8cbb8eba0acbc99fe9ae442300199af021079eafa7171ce90e150821a5cb3d74f0057721fbe7ec201a6044b68c8a7615f8c123f
   languageName: node
   linkType: hard
-
-"dumpster-ui@workspace:.":
-  version: 0.0.0-use.local
-  resolution: "dumpster-ui@workspace:."
-  dependencies:
-    "@chromatic-com/storybook": "npm:^1.6.1"
-    "@storybook/addon-essentials": "npm:^8.2.1"
-    "@storybook/addon-interactions": "npm:^8.2.1"
-    "@storybook/addon-links": "npm:^8.2.1"
-    "@storybook/addon-onboarding": "npm:^8.2.1"
-    "@storybook/blocks": "npm:^8.2.1"
-    "@storybook/preset-create-react-app": "npm:^8.2.1"
-    "@storybook/react": "npm:^8.2.1"
-    "@storybook/react-webpack5": "npm:^8.2.1"
-    "@storybook/test": "npm:^8.2.1"
-    "@types/gh-pages": "npm:^6"
-    "@types/prop-types": "npm:^15"
-    classnames: "npm:^2.5.1"
-    eslint-plugin-storybook: "npm:^0.8.0"
-    gh-pages: "npm:^6.1.1"
-    prop-types: "npm:^15.8.1"
-    react: "npm:^18.3.1"
-    react-dom: "npm:^18.3.1"
-    react-scripts: "npm:5.0.1"
-    storybook: "npm:^8.2.1"
-    typescript: "npm:^4.9.5"
-    webpack: "npm:^5.92.1"
-  languageName: unknown
-  linkType: soft
 
 "duplexer@npm:^0.1.2":
   version: 0.1.2
